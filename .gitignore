@@ -1,0 +1,8 @@
+**/__pycache__
+/main.py
+.upm/
+/poetry.lock
+/pyproject.toml
+/replit.nix
+/.replit
+/.breakpoints
